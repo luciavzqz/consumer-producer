@@ -1,4 +1,4 @@
-package com.lumaivzqz.notify_wait;
+package com.producerconsumer.using_notify_wait;
 
 import java.util.ArrayList;
 import java.util.List;

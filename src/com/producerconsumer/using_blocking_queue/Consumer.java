@@ -1,4 +1,4 @@
-package com.lumaivzqz.blocking_queue;
+package com.producerconsumer.using_blocking_queue;
 
 import java.util.concurrent.BlockingQueue;
 
